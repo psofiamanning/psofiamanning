@@ -28,9 +28,16 @@ body {
     margin-bottom: 30px !important;
 }
 
+.yellow {
+    text-align:center !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-size: 40px !important;
+    margin-bottom: 30px !important;
+}
+
 .projects {
-    margin-top: 0px !important;
-    margin-bottom: 0px !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
     border: 0px solid transparent !important;
     font-family: 'Graphik Regular Web', sans-serif !important;
     color: #0b0903 !important;
